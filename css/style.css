@@ -29,3 +29,33 @@ h1 {
 .logo {
   height: 45px;
 }
+button {
+  width: 200px;
+  height: 50px;
+  background-color: #f04c2f;
+  color: white;
+  font-weight: bold;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #25a2c3;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 20px;
+}
+.circular-square {
+  border-radius: 50%;
+}
+.contenitore {
+  padding: 80px;
+  background-color: #f04c2f;
+  color: white;
+  font-weight: bold;
+}
+h3 {
+  text-decoration: solid;
+  font-style: italic;
+}
+p {
+  padding: 20px;
+}
