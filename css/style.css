@@ -35,6 +35,7 @@ button {
   background-color: #f04c2f;
   color: white;
   font-weight: bold;
+  border: none;
 }
 h2 {
   font-family: "Montserrat", sans-serif;
