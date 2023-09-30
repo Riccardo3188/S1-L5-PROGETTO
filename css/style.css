@@ -36,6 +36,8 @@ button {
   color: white;
   font-weight: bold;
   border: none;
+  border-radius: 10px;
+  font-size: larger;
 }
 h2 {
   font-family: "Montserrat", sans-serif;
@@ -47,16 +49,67 @@ h2 {
 .circular-square {
   border-radius: 50%;
 }
-.contenitore {
+.notebook {
+  text-align: center;
+}
+.contenitore-arancio {
   padding: 80px;
   background-color: #f04c2f;
   color: white;
   font-weight: bold;
 }
-h3 {
-  text-decoration: solid;
-  font-style: italic;
-}
+
 p {
   padding: 20px;
+}
+.primo-paragrafo {
+  text-align: center;
+}
+.secondo-paragrafo {
+  text-align: center;
+}
+.titolo-contenitore-arancio {
+  color: white;
+  font-size: xx-large;
+}
+.testo-cont-arancio {
+  font-style: italic;
+  font-weight: normal;
+}
+.mario-rossi {
+  color: white;
+  text-align: center;
+  font-weight: normal;
+}
+.CEO {
+  text-align: center;
+  font-weight: normal;
+}
+.seconda-immagine {
+  padding: 40px;
+  width: -webkit-fill-available;
+}
+.terzo-paragrafo {
+  text-align: center;
+}
+.quarto-paragrafo {
+  text-align: center;
+}
+.terza-immagine {
+  padding: 40px;
+  width: -webkit-fill-available;
+}
+.quinto-paragrafo {
+  text-align: center;
+}
+.quarta-immagine {
+  padding: 40px;
+  width: -webkit-fill-available;
+}
+.contenitore-celeste {
+  padding: 80px;
+  background-color: #25a2c3;
+}
+.titolo-fine {
+  color: white;
 }
